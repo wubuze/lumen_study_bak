@@ -1,4 +1,5 @@
-Git is a version control system.
-Git is free software.
+<?php
 
-aaaa
+
+	echo 'index.php';
+
